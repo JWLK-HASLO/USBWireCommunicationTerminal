@@ -21,7 +21,7 @@
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity
-            android:name=".USBWireCommunicationTerminal.MainActivity"
+            android:name=".MainActivity"
             android:windowSoftInputMode="adjustPan">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

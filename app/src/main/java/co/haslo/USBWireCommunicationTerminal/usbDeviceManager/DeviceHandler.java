@@ -11,7 +11,6 @@ import java.util.Date;
 import co.haslo.USBWireCommunicationTerminal.MainActivity;
 import co.haslo.USBWireCommunicationTerminal.util.Dlog;
 
-
 public class DeviceHandler extends Handler {
 
     public int lengthSaver = 0;

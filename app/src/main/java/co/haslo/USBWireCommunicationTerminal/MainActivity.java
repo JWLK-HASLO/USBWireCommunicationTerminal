@@ -19,8 +19,6 @@ import java.io.InputStreamReader;
 import co.haslo.USBWireCommunicationTerminal.usbDeviceManager.DeviceHandler;
 import co.haslo.USBWireCommunicationTerminal.util.Dlog;
 
-
-
 public class MainActivity extends Activity {
 
     public static boolean DEBUG = false;

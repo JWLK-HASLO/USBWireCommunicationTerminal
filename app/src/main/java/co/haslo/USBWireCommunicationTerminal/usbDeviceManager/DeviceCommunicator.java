@@ -11,8 +11,9 @@ import android.hardware.usb.UsbManager;
 import java.io.IOException;
 import java.util.Arrays;
 
-import static co.haslo.USBWireCommunicationTerminal.util.ConvertData.hexStringArrayToByte8bit2HexArray;
 import co.haslo.USBWireCommunicationTerminal.util.Dlog;
+
+import static co.haslo.USBWireCommunicationTerminal.util.ConvertData.hexStringArrayToByte8bit2HexArray;
 
 public class DeviceCommunicator {
 

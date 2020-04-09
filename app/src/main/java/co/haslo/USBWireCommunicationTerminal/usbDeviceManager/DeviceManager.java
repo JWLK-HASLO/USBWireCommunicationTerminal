@@ -11,6 +11,7 @@ import co.haslo.USBWireCommunicationTerminal.usbDeviceElement.USBConnectionListe
 import co.haslo.USBWireCommunicationTerminal.usbDeviceElement.USBMonitoringService;
 import co.haslo.USBWireCommunicationTerminal.util.Dlog;
 
+
 public class DeviceManager {
     private static DeviceManager mDeviceManagerInstance = null;
     private static final Object mSyncBlock = new Object();
